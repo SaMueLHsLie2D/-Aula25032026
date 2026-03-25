@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Currículo Tech</title>
+</head>
+<body>
+
+    <!-- Título principal -->
+    <h1>Samuel Henrique</h1>
+
+    <!-- Objetivo profissional -->
+    <p>
+        Sou estudante e analista de software em formação, com foco em desenvolvimento backend,
+        APIs e bancos de dados. Busco oportunidades para evoluir tecnicamente e atuar em projetos
+        reais utilizando boas práticas de engenharia de software.
+    </p>
+
+    <!-- Habilidades técnicas -->
+    <h2>Habilidades Técnicas</h2>
+    <ul>
+        <li>JavaScript (Node.js, Express, NestJS)</li>
+        <li>Python (Flask)</li>
+        <li>MySQL / Banco de Dados</li>
+        <li>React (Frontend)</li>
+        <li>Docker</li>
+        <li>Testes (Jest, Supertest)</li>
+    </ul>
+
+    <!-- Link do LinkedIn -->
+    <h2>Contato</h2>
+    <p>
+        <a href="https://www.linkedin.com/in/samuel-h-s-carvalho-97b53134a" target="_blank">
+            Meu LinkedIn
+        </a>
+    </p>
+
+    <!-- Foto -->
+    <h2>Foto</h2>
+    <img src="sua-foto.jpg" alt="Foto de Samuel" width="200">
+
+</body>
+</html>
